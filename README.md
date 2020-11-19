@@ -1,7 +1,9 @@
 # A Low Profile Hyperixel4 Square Case
 ![DSCF3485-edit_1](https://user-images.githubusercontent.com/5594564/99624586-5f698d00-29e3-11eb-93e8-967f60386a14.png)
 
-This is a 3D printable case for the [Pimoroni Hyperpixel4 Square](https://shop.pimoroni.com/products/hyperpixel-4-square?variant=30138251444307) display and a Raspberry Pi 4 with the USB and Ethernet jacks snipped off. Hopefully someone makes a CM4 compatible display like this, but using some wire cutters to cut off the ports is pretty easy and makes the stack about half as tall.
+This is a 3D printable case for the [Pimoroni Hyperpixel4 Square](https://shop.pimoroni.com/products/hyperpixel-4-square?variant=30138251444307) Raspberry Pi display.
+
+I made this for [viz1090](https://github.com/nmatsuda/viz1090), but the only non-standard thing about the setup is I've sized it for a Pi with the USB and Ethernet ports snipped off, which makes the stack about half as tall. Hopefully someone makes a CM4 compatible display like this eventually.
 
 ![DSCF3472-edit_1](https://user-images.githubusercontent.com/5594564/99624575-5aa4d900-29e3-11eb-8b7c-2f640c59d54d.png)
 
