@@ -1,3 +1,3 @@
 # A Low Profile Hyperixel4 Square Case
 
-![](https://giphy.com/embed/VGh0nJHerUFFNxeAZo)
+![image](https://media.giphy.com/media/VGh0nJHerUFFNxeAZo/giphy-downsized-large.gif)
