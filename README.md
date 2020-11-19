@@ -1,4 +1,4 @@
-# A Low Profile Hyperixel4 Square Case
+# A Low Profile Hyperpixel4 Square Case
 ![DSCF3485-edit_1](https://user-images.githubusercontent.com/5594564/99624586-5f698d00-29e3-11eb-93e8-967f60386a14.png)
 
 This is a 3D printable case for the [Pimoroni Hyperpixel4 Square](https://shop.pimoroni.com/products/hyperpixel-4-square?variant=30138251444307) Raspberry Pi display.
